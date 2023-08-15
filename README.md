@@ -10,12 +10,15 @@
   </tr>
   <tr>
     <td>Codeforces</td>
-    <td><a href="https://codeforces.com/profile/mizan92782">mizan92782</a></td>
+    <td><a href="https://codeforces.com/profile/mizan9278"> 600 </a></td>
     <td>Germany</td>
   </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+
+
+   <tr>
+    <td>GeeksForGeeks</td>
+    <td><a href="https://auth.geeksforgeeks.org/user/mizanmd92782/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"> 400 </a></td>
+    <td>Germany</td>
   </tr>
+ 
 </table>
