@@ -1,16 +1,16 @@
 # PROBLEM-SOLVEING-COUNT
 
-<h2>A basic HTML table</h2>
+
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>OJ</th>
+    <th>Username</th>
+    <th>Count</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>Codeforces</td>
+    <td><a href="https://codeforces.com/profile/mizan92782">mizan92782</a></td>
     <td>Germany</td>
   </tr>
   <tr>
